@@ -15,4 +15,4 @@ This code witten to work in two different Modes namely- <b>IR mode</b> and <b>Wi
   You can control the same over an simple web interface when conned=cted to the netowork of your envirnment whose SSID and
   PASS are mentioned in code.
   
-<img src="complete.png">
+<img src="./photos/IMG_20200505_132931.jpg">
