@@ -1,6 +1,9 @@
 # Hostel_Room_Automation
 This Repo contains the arduino code and circuit diagram which i used to automate my room's light and fan wirelessly by two methods, Wifi and IR mode.
 
+->Here I used Node MCU module to have network interface as well.
+->An TSOP 1738 IR reciever for IR mode.
+->and an Relay module. 
 
 This code witten to work in two different Modes namely- <b>IR mode</b> and <b>Wifi client mode</b>.
 
