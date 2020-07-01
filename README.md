@@ -12,7 +12,7 @@ This code witten to work in two different Modes namely- <b>IR mode</b> and <b>Wi
   You can control the lights or fans using simple remote (which i configured by myelf in my case).
  
 ### when in Wifi Client Mode:
-  You can control the same over an simple web interface when conned=cted to the netowork of your envirnment whose SSID and
+  You can control the same over an simple web interface when connected to the netowork of your envirnment whose SSID and
   PASS are mentioned in code.
   
 <br>
